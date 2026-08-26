@@ -1,0 +1,16 @@
+Satoshi
+Designed by the Indian Type Foundry (ITF), distributed via Fontshare.
+
+LICENSE: ITF Free Font License
+Satoshi is free for both personal and commercial use. You may use it in
+websites, apps, and products, and bundle the font files with your project
+(as done here). You may not sell the font itself as a standalone product.
+
+The authoritative license text and the original font downloads are available
+from the official source:
+  https://www.fontshare.com/fonts/satoshi
+
+The font files in this folder (Satoshi-Variable.woff2) were obtained from a
+public mirror of the official Fontshare distribution. To get the files
+straight from the source instead, download the family from the Fontshare link
+above and replace the file in this folder with the same name.
